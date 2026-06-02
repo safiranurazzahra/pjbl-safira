@@ -18,7 +18,7 @@ with st.sidebar:
 
     pilihan = st.selectbox(
         "Pilihan Bangun Datar",
-        ["Persegi", "Persegi Panjang", "Lingkaran", "Segitiga", "Layang-Layang"]
+        ["Persegi", "Persegi Panjang", "Lingkaran", "Segitiga", "Trapesium"]
     )
 
     st.caption("Dibuat dengan :fire: oleh **Safira Nur Azzahra**")
